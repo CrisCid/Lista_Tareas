@@ -7,7 +7,6 @@ npm install react
 npm i --save @fortawesome/fontawesome-svg-core
 npm install --save @fortawesome/free-solid-svg-icons
 npm install --save @fortawesome/react-fontawesome
-
 // Para el ID de los articulos en la lista
 npm install uuidv4
 ------------------------------------------------------------
